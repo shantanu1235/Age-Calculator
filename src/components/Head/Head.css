@@ -1,0 +1,11 @@
+.calci{
+    display: flex;
+    justify-content: center;
+    margin-top: 15%;   
+    
+}
+.calci h1{
+    text-shadow: 1px -1px 3px black;
+    letter-spacing: 2px;
+    font-size: 50px;
+}

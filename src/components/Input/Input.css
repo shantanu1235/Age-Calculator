@@ -1,0 +1,31 @@
+.setup{
+    display: flex;
+    padding: 1rem,auto;
+    justify-content: center;
+    gap: 2%;
+}
+.input{
+    width: 40%;
+}
+.input .dates{
+    height: 50px;
+    width: 100%;
+    border: white;
+    background: white;
+    border-radius: 10px;
+}
+.input .dates:focus{
+    outline:invert;
+}
+.buttons{
+    width: 10%;
+}
+.buttons button{
+    height: 40px;
+    width: 100%;
+    border-radius: 10px;
+    border: none;
+    background-color: #03ed88;
+    color: white;
+    box-shadow: -3px -3px 2px 2px black;
+}
