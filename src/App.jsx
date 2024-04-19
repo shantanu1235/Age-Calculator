@@ -6,10 +6,10 @@ import Input from './components/Input/Input'
 function App() {
 
   return (
-    <>
+    <div className='age'>
     <Head/>
     <Input/>
-    </>
+    </div>
   )
 }
 

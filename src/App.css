@@ -1,3 +1,12 @@
 body{
-    background:linear-gradient(to left,rgb(61, 197, 242),rgb(242, 25, 235));
+    background:linear-gradient(to right,rgb(61, 197, 242),rgb(242, 25, 235));
+}
+.age{
+    background-color: white;
+    height: 300px;
+    width: 60%;
+    padding-left: 3rem;
+    margin-left: 18%;
+    justify-content: center;
+    align-items: center;
 }

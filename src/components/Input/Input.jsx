@@ -62,7 +62,7 @@ return(
     {age && (
         <div className="result">
 
-            <p>you are{age.years}years{age.months}month{age.days}days old</p>
+            <p className="pera">you are {age.years} years {age.months} month {age.days} days old </p>
         </div>
     )} 
     </div>
